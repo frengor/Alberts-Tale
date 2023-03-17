@@ -1,6 +1,6 @@
 # Albert's Tale
 
-Project for the Programming course at the University of Bologna a.a. 2020/2021.
+Little game for the project for the Programming course at the University of Bologna A.A. 2020/2021.
 
 > Albert is the name of the snowman in the first level.
 
